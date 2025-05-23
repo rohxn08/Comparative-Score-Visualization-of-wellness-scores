@@ -12,7 +12,7 @@ Features:
 
 Structure of the project
 1. The file : wellness_visualization.py is used to generate the data and plot the data.
-2. The file : wv.py is used to plot the collected data (makes use of existing data present in the Datasets folder. Datasets used are activity, sleep and weight data).
+2. The file : wellness_visualization_collected.py is used to plot the collected data (makes use of existing data present in the Datasets folder. Datasets used are activity, sleep and weight data).
 
 Installation
 
@@ -33,7 +33,7 @@ python wellness_visualization.py
 ```
 > To execute the file with collected data:
 ```bash
-python wv.py
+python wellness_visualization_collected.py
 ```
 
 
